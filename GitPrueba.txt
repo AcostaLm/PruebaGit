@@ -2,4 +2,15 @@ Contenido
 del
 Archivo
 cambio de maximo
+<<<<<<< HEAD
 hola a todos 
+=======
+
+no suban nada me van a da;ar my proyecto
+
+soy yo otra vez
+>>>>>>> 5cb04a6dcca4d2af7d72695586d89c38ae200a90
+
+public function saludar(){}
+
+public function trabajar(){}
